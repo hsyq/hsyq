@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![info](https://github-readme-stats.vercel.app/api?username=hsyq&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 
 ![](https://img.shields.io/badge/%E5%86%99-VS%20Code-green)
 ![](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-JS-green)
@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![info](https://github-readme-stats.vercel.app/api?username=hsyq&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 -->
